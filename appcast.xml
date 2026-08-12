@@ -3,13 +3,26 @@
     <channel>
         <title>SceneThief</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 12 Aug 2026 16:14:11 +0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.2.0/SceneThief-0.2.0.dmg" length="142835063" type="application/octet-stream" sparkle:edSignature="/leSRIghMOGp3zH9paEDXSU+ajzbGtKxz7u1LR4ysu9hlqVrJ/jM3w6KysEuO3uakTq04xPZ8X1QOMF5sz9ZDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.2.0/SceneThief23-9.delta" sparkle:deltaFrom="9" length="514442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8hOJgE0l16+PdH8uFG1Xc1vwnHBwA8Qa2H1ewC/JGwV1JPeikPtWurQNi54w7kLeoebuleT+Zl6uT3LXoLkkAw=="/>
+                <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.2.0/SceneThief23-8.delta" sparkle:deltaFrom="8" length="531322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R2c6O2jXplev1C/XL5abD6t4Baa1dAhTjiivlLbUJv3PyOsv3N2u2sihF+SQ0w17+7T4W784+L7NS0If7HEcBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 12 Aug 2026 10:46:22 +0300</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.1.1/SceneThief-0.1.1.dmg" length="142793896" type="application/octet-stream" sparkle:edSignature="j9k7hrO4NyDUSzxelUi8lk2n21XoCvSHabvE3p9FKgds8dbqcRaicoaq5ApREt6ZHwakvng1hoEqQ7gNkBl0CA=="/>
+            <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.2.0/SceneThief-0.1.1.dmg" length="142793896" type="application/octet-stream" sparkle:edSignature="j9k7hrO4NyDUSzxelUi8lk2n21XoCvSHabvE3p9FKgds8dbqcRaicoaq5ApREt6ZHwakvng1hoEqQ7gNkBl0CA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.1.1/SceneThief9-8.delta" sparkle:deltaFrom="8" length="214242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7fGGw0bWpHOksoia72H7J9eb0P++hHdeUJVJ8tr4Cw2aQGmOBD8aQDwll8YgG/OqCCyphtVw0fO4/k2Smi4zCQ=="/>
             </sparkle:deltas>
@@ -21,7 +34,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.1.1/SceneThief-0.1.0.dmg" length="142578305" type="application/octet-stream" sparkle:edSignature="Dmy/fVPphVQAjD/yFrOJPt9dOHqTrSKqS/qXFEjZbNUsWWX+o3PmhhWKdghaDeVifGoycbighc6WuXwuOmBLCQ=="/>
+            <enclosure url="https://github.com/burskozbekov/scenethief-releases/releases/download/v0.2.0/SceneThief-0.1.0.dmg" length="142578305" type="application/octet-stream" sparkle:edSignature="Dmy/fVPphVQAjD/yFrOJPt9dOHqTrSKqS/qXFEjZbNUsWWX+o3PmhhWKdghaDeVifGoycbighc6WuXwuOmBLCQ=="/>
         </item>
     </channel>
 </rss>
